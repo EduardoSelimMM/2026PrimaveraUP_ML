@@ -27,14 +27,14 @@
 + Soberanis Hori Jimena
 
 ### Equipo 5
-+ Alcocer Cancino Eliud
++ Alcocer Cancino Kevin Eliuth
 + Gómez Perroni Iñaki
 + González Aguilar Diego
 
 ### Equipo 6
 + Avelino Pineda Celine Haidé
 + Naranjo Martínez Indira
-+ Paniagua Luis
++ Paniagua Palacios Luis Martín 
 
 ### Equipo 7
 + Carreiro Muradas Rodrigo
