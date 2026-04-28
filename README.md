@@ -6,3 +6,4 @@
 - [Sesion 17: 24 de marzo 2026](./sesion17)
 - [Sesion 19: 14 de abril 2026](./sesion19)
 - [Sesion 21: 21 de abril 2026](./sesion21)
+- [Sesion 23: 28 de abril 2026](./sesion23)
