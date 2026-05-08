@@ -7,3 +7,4 @@
 - [Sesion 19: 14 de abril 2026](./sesion19)
 - [Sesion 21: 21 de abril 2026](./sesion21)
 - [Sesion 23: 28 de abril 2026](./sesion23)
+- [Sesion 25: 8 de mayo 2026](./sesion25)
