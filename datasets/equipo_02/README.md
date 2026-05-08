@@ -1,5 +1,13 @@
 # Clustering
 
++ Alcocer Cancino Kevin Eliuth
++ Gómez Perroni Iñaki
++ González Aguilar Diego
++ Estudiante pendiente
++ Estudiante pendiente
+
+## Conjunto de datos
+
 ```
 import pandas as pd
 import yfinance as yf
@@ -20,3 +28,22 @@ fecha_final = "2026-03-31"
 datos = yf.download(lista_tickers_ipc, start = fecha_inicio, end = fecha_final,
 group_by='ticker', auto_adjust = True, progress = False)
 ```
+
+## Instrucciones
+
+Para el histórico de cada acción calcular:
+
+1. Volumen promedio
+2. Rendimiento diario promedio
+3. Volatilidad del rendimiento diario
+4. Skewness del rendimiento diario
+5. Curtosis del rendimiento diario
+6. Sharpe-Ratio
+7. Rango intradia promedio. Promedio de cuánto varía el precio entre el máximo y el mínimo de cada día.
+8. Rango horario promedio. Promedio de cuánto varía el precio entre el precio de cierre y el precio de apertura de cada día.
+9. Up/Down Volume Ratio. Suma del volumen en días alcistas dividida por la suma del volumen en días bajistas.
+
+Esto le dejará un renglón de 9 entradas por cada acción.
+
+Con los renglones de todas las acciones, llevar a cabo clustering por k-medias, DBSCAN y clustering aglomerativo
+
