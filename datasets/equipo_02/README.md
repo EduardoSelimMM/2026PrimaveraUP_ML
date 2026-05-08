@@ -52,3 +52,5 @@ Con los renglones de todas las acciones, llevar a cabo clustering por k-medias, 
 
 El objetivo es intentar entender si podemos agrupar a las acciones.
 
+¿La ventana de tiempo de observación tiene algún efecto?
+
