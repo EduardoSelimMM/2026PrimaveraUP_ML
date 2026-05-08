@@ -17,5 +17,6 @@ lista_tickers_ipc = [
 fecha_inicio = "2022-01-01"
 fecha_final = "2026-03-31"
 
-datos = yf.download(lista_tickers_ipc, start = fecha_inicio, end = fecha_final, group_by='ticker', auto_adjust = True, progress = False)
+datos = yf.download(lista_tickers_ipc, start = fecha_inicio, end = fecha_final,
+group_by='ticker', auto_adjust = True, progress = False)
 ```
