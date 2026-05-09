@@ -1,4 +1,14 @@
-# Predicción
+# Equipo
+
++ García Ortiz Gustavo Isaí
++ Téllez Paniagua Gael
++ Carreiro Muradas Rodrigo
++ Martínez De la Parra Félix Emiliano
+
+## Fecha de exposición:
+22 de mayo de 2026. 25 minutos.
+
+## Conjunto de datos
 
 ```
 import pandas as pd
