@@ -1,10 +1,10 @@
 # Equipo
 
-+ Alcocer Cancino Kevin Eliuth
-+ Gómez Perroni Iñaki
-+ González Aguilar Diego
-+ Estudiante pendiente
-+ Estudiante pendiente
++ Alcocer Cancino
++ Gómez Perroni
++ González Aguilar
++ Betancourt Martinez
++ Téllez Girón Cruz
 
 ## Fecha de exposición:
 15 de mayo de 2026. 30 minutos.
@@ -48,7 +48,7 @@ Para el histórico de cada acción calcular:
 
 Esto le dejará un renglón de 9 entradas por cada acción.
 
-Con los renglones de todas las acciones, llevar a cabo clustering por k-medias, DBSCAN y clustering aglomerativo.
+Con los renglones de todas las acciones, llevar a cabo clustering por k-medias, DBSCAN y clustering jerárquico.
 
 El objetivo es intentar entender si podemos agrupar a las acciones.
 
