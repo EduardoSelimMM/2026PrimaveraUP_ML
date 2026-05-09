@@ -1,9 +1,9 @@
 # Equipo
 
-+ Álvarez Aguado Alejandra
-+ Herrera Aguirre Emiliano
-+ Soberanis Hori Jimena
-+ Estudiante pendiente
++ Álvarez Aguado
++ Herrera Aguirre
++ Soberanis Hori
++ López Ruíz
 
 # Fecha
 Martes 19 de mayo. 20:00 a 20:30
