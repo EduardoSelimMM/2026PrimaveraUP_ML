@@ -1,6 +1,6 @@
 # Equipo
 
-+ Avelino Pineda Celine
++ Avelino Pineda
 + Naranjo Martínez
 + Jaime Gándara
 + Pavéz Ribó
