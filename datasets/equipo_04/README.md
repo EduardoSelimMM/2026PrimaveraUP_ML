@@ -10,7 +10,7 @@
 
 ## Instrucciones
 
-La tarea de predicción es un problema de clasificación de 3 clases (columna `target`):
+La tarea de predicción es un problema de clasificación de 3 clases (columna `Target`):
 
 + Dropout: El estudiante abandonó el curso antes de completarlo.
 + Enrolled: El estudiante sigue inscrito en la fecha normal de finalización del curso.
