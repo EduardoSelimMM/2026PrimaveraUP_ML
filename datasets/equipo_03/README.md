@@ -1,9 +1,9 @@
 # Equipo
 
-+ García Ortiz Gustavo Isaí
-+ Téllez Paniagua Gael
-+ Carreiro Muradas Rodrigo
-+ Martínez De la Parra Félix Emiliano
++ García Ortiz
++ Téllez Paniagua
++ Carreiro Muradas
++ Martínez De la Parra
 
 ## Fecha de exposición:
 22 de mayo de 2026. 25 minutos.
@@ -14,7 +14,7 @@
 import pandas as pd
 import yfinance as yf
 
-lista_tickers_ipc = [
+lista_tickers = [
     "AC.MX", "ALPEKA.MX", "ALSEA.MX", "AMXB.MX", "ASURB.MX", 
     "BBAJIOO.MX", "BIMBOA.MX", "BOLSAA.MX", "CEMEXCPO.MX", "CHDRAUIB.MX", 
     "CUERVO.MX", "ELEKTRA.MX", "FEMSAUBD.MX", "GAPB.MX", "GCARSOA1.MX", 
@@ -35,3 +35,7 @@ datos_acciones = yf.download(lista_tickers_ipc, start = fecha_inicio, end = fech
 datos_ipc = yf.download(ticker_ipc, start = fecha_inicio, end = fecha_final, group_by='ticker',
                         auto_adjust = True, progress = False)
 ```
+
+## Pregunta a responder
+
+¿Los precios de las acciones individuales impactan directamente al precio del IPC? ¿Hay alguna(s) empresa(s) que sean más relevantes?¿Qué inconvenientes presenta esta perspectiva?
