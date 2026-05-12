@@ -10,4 +10,4 @@
 
 ## Instrucciones
 
-¿Qué factores afectan la temperatura aparente? ¿La dirección del viento es importante? ¿El nivel de humedad es importante? ¿La fecha es importante?
+¿Qué factores afectan la temperatura aparente? ¿La dirección del viento es importante? ¿El nivel de humedad es importante? ¿La fecha es importante? Deben crear nuevas variables asociadas (por ejemplo, meses, estaciones, etc.)
