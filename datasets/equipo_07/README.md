@@ -25,5 +25,7 @@ El dataset incluye atributos de varios dulces. Para las variables binarias, 1 si
 + `pricepercent`: Percentil del precio unitario comparado con el resto del conjunto.
 + `winpercent`: Calificación del dulce
 
+### Algunas preguntas a analizar. Deben plantear algunas más
+
 + ¿Qué variables son importantes en la calificación de un dulce?
 + ¿Se puede predecir si un dulce contiene chocolate?
