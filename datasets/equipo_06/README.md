@@ -14,3 +14,4 @@ El New York City Department of Transportation recopila datos diarios sobre la ca
 
 + ¿La temperatura y lluvia impactan en el número de bicicletas totales? ¿Es el mismo impacto en los 4 puentes?
 + ¿La época del año impacta en el número de bicicletas totales? ¿Es el mismo impacto en los 4 puentes? Deben crear nuevas variables asociadas. (Por ejemplo, meses, estaciones, fechas especiales, etc.)
++ ¿El comportamiento en un puente afecta a los otros?
