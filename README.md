@@ -9,3 +9,4 @@
 - [Sesion 23: 28 de abril 2026](./sesion23)
 - [Sesion 25: 8 de mayo 2026](./sesion25)
 - [Sesion 26: 12 de mayo 2026](./sesion26)
+- [Sesion 28: 19 de mayo 2026](./sesion28)
