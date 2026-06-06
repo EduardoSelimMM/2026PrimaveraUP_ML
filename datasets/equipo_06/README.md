@@ -2,7 +2,7 @@
 
 + Herazo Sarmiento
 + Vázquez Barrera
-+ Paniagua Palacios
++ Leyva Mondragón (actualizado)
 + Reyes Olivares
 
 ## Fecha de exposición:
