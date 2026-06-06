@@ -2,7 +2,7 @@
 
 + Iraola Aragón
 + Ruiz de Chávez Rodríguez
-+ Leyva Mondragón
++ Paniagua Palacios (actualizado)
 + Ochoa Ruiz
 
 ## Fecha de exposición:
